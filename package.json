@@ -1,6 +1,6 @@
 {
   "name": "tic_tac_toe",
-  "homepage": "https://sachin-chourasiya.github.io/tic-tac-toe",
+  "homepage": "https://sachin-chourasiya.github.io/tic_tac_toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
