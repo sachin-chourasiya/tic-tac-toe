@@ -23,7 +23,7 @@ function App() {
         let winner = checkWinner();
         if (winner) {
             clearGame();
-            alert(`Ta da  ${winner} won the Game !`)
+            alert(`Congratulations ${winner} won the Game !`)
         }
     }, [gameState])
     const checkWinner = () => {
