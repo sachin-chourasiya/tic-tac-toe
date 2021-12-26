@@ -69,6 +69,7 @@ code {
   background-color: red;
   color: white;
   text-decoration: none;
+  border: none;
   width: 170px;
   height: 30px;
   border-radius: 50%;
